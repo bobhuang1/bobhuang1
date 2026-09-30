@@ -7,6 +7,7 @@
 <p align="center">
   <a href="mailto:bob@bobhuang.com"><img src="https://img.shields.io/badge/Email-bob@bobhuang.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.bobhuang.com"><img src="https://img.shields.io/badge/Website-bobhuang.com-1F6FEB?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/bob-huang-4aa256/"><img src="https://img.shields.io/badge/LinkedIn-bob--huang--4aa256-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://generator.ibebarcode.com"><img src="https://img.shields.io/badge/Product-ibebarcode.com-0A7B83?style=flat-square&logo=barcode&logoColor=white" alt="ibebarcode.com"></a>
 </p>
 
@@ -127,5 +128,6 @@ departments in law firms and research institutes.
 
 - ✉️ **bob@bobhuang.com**
 - 🌐 **[bobhuang.com](https://www.bobhuang.com)** — long-form writing and project notes · **[ibebarcode.com](https://ibebarcode.com)**
+- 💼 **[LinkedIn](https://www.linkedin.com/in/bob-huang-4aa256/)** — the professional profile; connect there for roles
 
 <p align="center"><em>I'm open to software engineering and technical leadership roles — always happy to talk about .NET, cloud, embedded, or AI.</em></p>
