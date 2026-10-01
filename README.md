@@ -131,3 +131,7 @@ departments in law firms and research institutes.
 - 💼 **[LinkedIn](https://www.linkedin.com/in/bob-huang-4aa256/)** — the professional profile; connect there for roles
 
 <p align="center"><em>I'm open to software engineering and technical leadership roles — always happy to talk about .NET, cloud, embedded, or AI.</em></p>
+
+## License
+
+This project is free software, released under the **GNU General Public License v3.0**. You may redistribute and/or modify it under those terms; see [LICENSE.md](LICENSE.md) for the full text.
