@@ -58,12 +58,12 @@ and the cloud** — barcode and auto-ID products, embedded devices, and AI-assis
     <td width="50%" valign="top">
       <h4>🏷️ <a href="https://github.com/bobhuang1/IBEBarcodeGenerator">IBE Barcode Generator</a></h4>
       <p>Free, open-source, cross-platform barcode label generator: 16 legacy formats plus QR, Data&nbsp;Matrix, PDF417 and Aztec — an Avalonia desktop app, a Blazor web app, and PDF label sheets.<br>
-      <sub>MIT &middot; <a href="https://generator.ibebarcode.com">try it live</a></sub></p>
+      <sub>GPL-3.0 &middot; <a href="https://generator.ibebarcode.com">try it live</a></sub></p>
     </td>
     <td width="50%" valign="top">
       <h4>📱 <a href="https://github.com/bobhuang1/IBEBarcodeScanner">IBE Barcode Scanner</a></h4>
       <p>iOS and Android barcode/NFC scanner in .NET&nbsp;MAUI that reads what the generator prints — including MSI&nbsp;Plessey and USPS&nbsp;Postnet, which mainstream scanning SDKs don't support.<br>
-      <sub>MIT</sub></p>
+      <sub>GPL-3.0</sub></p>
     </td>
   </tr>
   <tr>
